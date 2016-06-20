@@ -1,1 +1,1 @@
-This project is not of my creation. It is just used here for Simple-PAAS testing
+This project is not of my creation. I use it here as a Maven Spring Java project to test my teams Simple-PAAS project.
